@@ -9,9 +9,9 @@ This project aims to rewrite all of the code based off snesrev's original PC por
 
 # The Team
 
-Goraiken - Lead Developer
-DaBanana64 - Git Manager
-Mlops - Researcher
+	Goraiken - Lead Developer 
+	DaBanana64 - Git Manager
+	Mlops - Researcher
 
 # Credits
 
