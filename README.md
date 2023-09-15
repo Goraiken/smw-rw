@@ -1,7 +1,6 @@
-# smw
-A reimplementation of Super Mario World, rewritten for better readability.
-
-Home of SMW C Decimp is: https://discord.gg/AJJbJAzNNJ
+# smw-od
+A reimplementation of Super Mario World, rewritten for better readability and modding capabilities
+Home of the original SMW PC Port is: https://discord.gg/AJJbJAzNNJ
 
 ## About
 
